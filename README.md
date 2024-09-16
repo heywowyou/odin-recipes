@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I'm going to create a recipe website from scratch using bash git and html.
