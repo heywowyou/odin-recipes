@@ -1,0 +1,36 @@
+
+/*Overall font family */
+* {
+    font-family: Verdana, sans-serif;
+}
+
+.title {
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+/*Links color */
+a {
+    color: black;
+}
+
+.recipe-list {
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    text-align: left;
+}
+
+.recipe-image {
+    height: auto;
+    width: 400px;
+}
+
+.home {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
