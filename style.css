@@ -1,59 +1,58 @@
-
 /*Overall font family */
 * {
-    font-family: Verdana, sans-serif;
+  font-family: Verdana, sans-serif;
 }
 
 .title {
-    color: black;
-    font-size: 40px;
-    font-weight: 900;
-    font-family: Verdana, sans-serif;
-    text-align: center;
-    text-transform: uppercase;
-    margin: 30px auto;
+  color: black;
+  font-size: 40px;
+  font-weight: 900;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 30px auto;
 }
 
 /*Links color */
 a {
-    color: black;
+  color: black;
 }
 
 div {
-    display: block;
-    font-size: 20px;
-    font-weight: 900;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-    padding: 20px;
-    margin-top: 20px;
+  display: block;
+  font-size: 20px;
+  font-weight: 900;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 .pesto {
-    background-color: springgreen;
-    text-align: center;
+  background-color: springgreen;
+  text-align: center;
 }
 
 .beef {
-    background-color: lightcoral;
-    text-align: center;
+  background-color: lightcoral;
+  text-align: center;
 }
 
 .chicken {
-    background-color: aquamarine;
-    text-align: center;
+  background-color: aquamarine;
+  text-align: center;
 }
 
 .recipe-image {
-    display: block;
-    margin: 40px auto;
-    height: auto;
-    width: 400px;
+  display: block;
+  margin: 40px auto;
+  height: auto;
+  width: 400px;
 }
 
 .home {
-    color: black;
-    font-size: 20px;
-    text-align: center;
+  color: black;
+  font-size: 20px;
+  text-align: center;
 }
